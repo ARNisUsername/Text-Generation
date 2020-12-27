@@ -69,6 +69,9 @@ def generate_text(amount_char):
         output_sentence += int2char[num]
     return output_sentence
 
-print(generate_text(350))
-
-
+print(generate_text(550))
+'''Text Generated:
+When I wake up, the other side of the lake the stream and the stream and the stream drapped the stream. I can see the chance and then the draw I say.
+But theres nothing to the stream, and then I start and and the hunt of the train of the rest of the train, the tributes of the woods of the careful of the horn 
+of the first thing I can hear to be something to something to the starts. I start out of the cave else. I say. I cant help him the stream and she says. 
+And I start the banding up to the and of the bread that and seems on the stream, I say. I say. I start the part of the ground'''
